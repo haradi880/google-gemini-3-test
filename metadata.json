@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Nexus",
+  "description": "A multimodal AI workspace showcasing Gemini 2.5 Flash capabilities including streaming Chat, Vision analysis, and Real-time Voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
